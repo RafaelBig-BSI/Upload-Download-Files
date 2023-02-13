@@ -3,6 +3,3 @@ Projeto ASP.NET Core MVC (Model-View-Controller) que consiste em uma aplicação
 
 # Como utilizar
 Não é preciso realizar algum tipo de configuração, apenas realize a compilação do projeto. Um ponto importante é que utilizei um pacote NuGet chamado de MimeTypeMapOfficial, sendo este utilizado para obter o "contentType" do arquivo enviado para a aplicação (upload).
-
-# Authors
-Rafael Bigeschi de Almeida - Web Developer
